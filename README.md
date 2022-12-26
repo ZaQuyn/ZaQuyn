@@ -2,6 +2,7 @@
 - 👋 Hi, I’m @ZaQuyn
 - 👀 I’m interested in studying every aspects that intriguing and fascinating
 - 🌱 I’m currently learning data science and finding the right path for myself to enhance my skills along with knowledge.
+- 🎤 I like singing and cats 😺
 
 >"I'd rather regret the things that i've done than the things I haven't done." - Lucille Ball
 # 📊GitHub Stats :
